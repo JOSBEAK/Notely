@@ -47,8 +47,12 @@ npm install
 npm run dev
 ```
 
+
 or
 
 
 5. Simply run the deployed version: https://josbeaknotely.netlify.app/
 
+## Demo
+
+![image](https://github.com/JOSBEAK/Notely/assets/59971421/fb6d0c1b-499d-4cd4-856a-105924fe60ac)
